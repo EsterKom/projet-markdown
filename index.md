@@ -39,7 +39,8 @@ Voyage au Pérou : on a goûté à la forêt moite de l’Amazonie, on a rêvé 
 ## Le monde selon vos envies
 #### Parce que chaque voyageur est différent 
 
-|[Lien](http://www.google.fr) | [Lien](http://www.google.fr) | [Lien](http://www.google.fr) | [Lien](http://www.google.fr) | [Lien](http://www.google.fr) | [Lien](http://www.google.fr) |
+|![Image](assets/img/Costa%20rica-kura%20villa.jpg) | ![Image](assets/img/voyages-et-enfants.jpg) | ![Image](assets/img/santiago-de-chile.jpg) |![Image](assets/img/amazonia-%20bresil.jpg) |![Image](assets/img/la-boca-colorful-neighborhood-buenos.jpg) |![Image](assets/img/fernando-de-noronha-brazil.jpg) |
+|:---------|:--------:|:--------:|:--------:|:---------:|---------:|
 | Voyage du luxe | Famille | Circuits | Aventures | Voyager en petit budget | Exotique |
 
 **Tous nos envies**
